@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MPage.master.cs" Inherits="AplicacionWebCapacitacion.MPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Angel_Perez_App</title>
+</head>
+<body>
+    <div>
+        <a href="Ejercicio1.aspx">Ejercicio1</a>
+        <a href="Ejercicio2.aspx">Ejercicio2</a>
+        <a href="Imagenes.aspx">Imagenes</a>
+        <a href="Login.aspx">CERRAR SESION</a>
+    </div>
+    <br />
+    <br />
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
