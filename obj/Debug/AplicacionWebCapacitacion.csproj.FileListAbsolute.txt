@@ -52,6 +52,7 @@ C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\roslyn\VBCSCompiler.ex
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\Antlr3.Runtime.dll
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\BL.dll
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.Data.v22.2.dll
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.Printing.v22.2.Core.dll
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.RichEdit.v22.2.Core.dll
@@ -67,10 +68,12 @@ C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\Microsoft.Web.Infrastr
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\Newtonsoft.Json.dll
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\System.Web.Optimization.dll
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\WebGrease.dll
+C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DAD.dll
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.Drawing.v22.2.dll
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.Pdf.v22.2.Core.dll
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.Pdf.v22.2.Drawing.dll
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.Office.v22.2.Core.dll
+C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\BL.pdb
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.Data.v22.2.xml
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.Printing.v22.2.Core.xml
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.RichEdit.v22.2.Core.xml
@@ -80,6 +83,7 @@ C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\Newtonsoft.Json.xml
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\Antlr3.Runtime.pdb
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\Microsoft.AspNet.FriendlyUrls.xml
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DAD.pdb
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.Pdf.v22.2.Core.xml
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.Pdf.v22.2.Drawing.xml
 C:\Users\angel\source\repos\AplicacionWebCapacitacion\bin\DevExpress.Office.v22.2.Core.xml

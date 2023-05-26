@@ -7,6 +7,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using BL;
 
 namespace AplicacionWebCapacitacion
 {
@@ -17,7 +18,7 @@ namespace AplicacionWebCapacitacion
         }
         protected void Page_Load(object sender, EventArgs e)
         {
-            DBConnector.setProperties(SqlDataSource1,"Category",2);
+            BLC.setDataSourcePropreties(SqlDataSource1,"Category",2);
         }
     }
 }
